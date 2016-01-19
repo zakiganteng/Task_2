@@ -7,7 +7,7 @@ public class OddOccurences{
   public static void main(String[] args){
     OddOccurences odd = new OddOccurences();
     
-    int[] A = {};
+    int[] A = { 9, 3, 9, 3, 9, 7, 9 };
     
     int result = odd.checkOddOccurences( A );
     
