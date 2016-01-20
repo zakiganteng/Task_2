@@ -53,7 +53,7 @@ as explained, Example above the method should return 7. <br>
 your function should return 9, as 9 is unpaired <br>
 
 
-## Task 2 <Bonus Advanced> : One Swap Sort
+## Task 2 [Bonus Advanced] : One Swap Sort
 Write a method : 
   ``` 
   public int checkSort(int[] A)
