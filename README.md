@@ -41,10 +41,10 @@ OOP ADF Task 2 2017 : Class and Object Exercise
 	method akan mengecek daftar nilai dirinya terhadap daftar nilai dari objek mahasiswa m.<br>
 	method mengembalikan karakter terkecil yang muncul di daftar nilai dari kedua objek.<br>
 	contoh: <br>
-	<t>jika daftar nilai objek m1 berisi C,D,B,D,; dan daftar nilai objek m2 berisi A,B,E,C,B,; <br>
-	<t>maka pemanggilan m1.cekNilai(m2) akan mengembalikan karakter 'B'<br>
-	method mengembalikan karakter 'X' jika tidak ada karakter yang sama yang ditemukan di kedua daftar
+		- jika daftar nilai objek m1 berisi C,D,B,D,; dan daftar nilai objek m2 berisi A,B,E,C,B,; <br>
+		- maka pemanggilan m1.cekNilai(m2) akan mengembalikan karakter 'B'<br>
+	method mengembalikan karakter 'X' jika tidak ada karakter yang sama yang ditemukan di kedua daftar<br>
 	contoh: <br>
-	<t>jika daftar nilai objek m1 berisi C,D,; dan daftar nilai objek m2 berisi A,B,; <br>
-	<t>maka pemanggilan m1.cekNilai(m2) akan mengembalikan karakter 'X'<br>
+		- jika daftar nilai objek m1 berisi C,D,; dan daftar nilai objek m2 berisi A,B,; <br>
+		- maka pemanggilan m1.cekNilai(m2) akan mengembalikan karakter 'X'<br>
 * Jalankan kelas Main
