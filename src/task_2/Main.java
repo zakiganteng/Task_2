@@ -6,8 +6,8 @@
 package task_2;
 
 /**
- *  NIM = .............................................
- *  Nama = .............................................
+ *  NIM = 1103130047
+ *  Nama = Muhammad Zakaria Musa
  */
 public class Main {
 
