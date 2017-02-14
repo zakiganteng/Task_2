@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package task_2;
-import java.util.Arrays;
 /**
  *  NIM = 1103130047
  *  Nama = Muhammad Zakaria Musa
